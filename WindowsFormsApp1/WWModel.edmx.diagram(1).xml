@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d46aa726e0274373a334dd28ed7671cb" Name="Diagram1">
+        <EntityTypeShape EntityType="MyDBModel.Activity" Width="1.5" PointX="7.5" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.Album" Width="1.5" PointX="13.5" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.Article" Width="1.5" PointX="0.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.ArticlePicture" Width="1.5" PointX="3" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.Category" Width="1.5" PointX="0.75" PointY="13" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.Color" Width="1.5" PointX="8.25" PointY="15.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.Comment" Width="1.5" PointX="15.75" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.Employee" Width="1.5" PointX="13.5" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.FavoriteList" Width="1.5" PointX="12.75" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.Instruction" Width="1.5" PointX="0.75" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.Member" Width="1.5" PointX="10.5" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.OrderStatu" Width="1.5" PointX="13.5" PointY="19" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.PhotoList" Width="1.5" PointX="12.75" PointY="15.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.Position" Width="1.5" PointX="11.25" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.ProductPhoto" Width="1.5" PointX="10.5" PointY="20" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.ProductsinStore" Width="1.5" PointX="7.5" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.Reference" Width="1.5" PointX="15.75" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.Salary" Width="1.5" PointX="15.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.Shipping" Width="1.5" PointX="13.5" PointY="21.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.Size" Width="1.5" PointX="8.25" PointY="18.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.Store" Width="1.5" PointX="5.25" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.SubCategory" Width="1.5" PointX="3" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.Supplier" Width="1.5" PointX="3" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.sysdiagram" Width="1.5" PointX="5.75" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDBModel.Type" Width="1.5" PointX="10.5" PointY="16.625" IsExpanded="true" />
+        <AssociationConnector Association="MyDBModel.FK_Reference_Album" ManuallyRouted="false" />
+        <AssociationConnector Association="MyDBModel.FK_AriclePicture_Article" ManuallyRouted="false" />
+        <AssociationConnector Association="MyDBModel.FK_SubCategory_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="MyDBModel.FK_Comment_Member" ManuallyRouted="false" />
+        <AssociationConnector Association="MyDBModel.FK_Employees_Position" ManuallyRouted="false" />
+        <AssociationConnector Association="MyDBModel.FK_Salary_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="MyDBModel.FK_FavoriteList_Member" ManuallyRouted="false" />
+        <AssociationConnector Association="MyDBModel.FK_FavoriteList_Type" ManuallyRouted="false" />
+        <AssociationConnector Association="MyDBModel.FK_PhotoList_ProductPhoto" ManuallyRouted="false" />
+        <AssociationConnector Association="MyDBModel.FK_ProductsinStore_Store" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="MyDBModel.Cart" Width="1.5" PointX="12.75" PointY="11.75" />
+        <AssociationConnector Association="MyDBModel.FK_Cart_Member" />
+        <EntityTypeShape EntityType="MyDBModel.OrderDetail" Width="1.5" PointX="18" PointY="8.625" />
+        <EntityTypeShape EntityType="MyDBModel.Product" Width="1.5" PointX="10.5" PointY="12" />
+        <AssociationConnector Association="MyDBModel.FK_Cart_Product" />
+        <AssociationConnector Association="MyDBModel.FK_Product_Color" />
+        <AssociationConnector Association="MyDBModel.FK_Comment_Product" />
+        <AssociationConnector Association="MyDBModel.FK_FavoriteList_Product1" />
+        <AssociationConnector Association="MyDBModel.FK_OrderDetail_Product" />
+        <AssociationConnector Association="MyDBModel.FK_PhotoList_Product" />
+        <AssociationConnector Association="MyDBModel.FK_Product_Size" />
+        <AssociationConnector Association="MyDBModel.FK_Reference_Product" />
+        <EntityTypeShape EntityType="MyDBModel.ProductInfo" Width="1.5" PointX="5.25" PointY="12.375" />
+        <AssociationConnector Association="MyDBModel.FK_Activity_ProductInfo" />
+        <AssociationConnector Association="MyDBModel.FK_Product_ProductInfo" />
+        <AssociationConnector Association="MyDBModel.FK_ProductInfo_SubCategory" />
+        <AssociationConnector Association="MyDBModel.FK_Products_Supplier" />
+        <AssociationConnector Association="MyDBModel.FK_ProductsinStore_ProductInfo" />
+        <EntityTypeShape EntityType="MyDBModel.Order" Width="1.5" PointX="17.25" PointY="4" />
+        <AssociationConnector Association="MyDBModel.FK_Orders_Employees" />
+        <AssociationConnector Association="MyDBModel.FK_Orders_Member2" />
+        <AssociationConnector Association="MyDBModel.FK_OrderDetail_Orders" />
+        <AssociationConnector Association="MyDBModel.FK_Orders_OrderStatus" />
+        <AssociationConnector Association="MyDBModel.FK_Orders_Shipping" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

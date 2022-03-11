@@ -1,0 +1,109 @@
+C:\Users\Student\Desktop\UIbY震麟老師0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Wisewhile.FrmShowProduct.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MidTermReport.Frm_Cart.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Test.FrmAdmin.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Test.FrmLogOnDrive.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Test.FrmMemberList.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Test.FrmModifycode.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Report.Frm_MemberInfo.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Report.Frm_View.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.商品上下架.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.商品新增視窗.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.商品更新視窗.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.庫存.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\專題.員工管理.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\專題.編輯員工職位.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\專題.編輯員工薪水.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\專題.編輯員工資料.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.會員修改.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.會員刪除.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.會員管理.resources
+C:\Users\Student\Desktop\期中專題\UIby哲ㄏㄏㄏ0309\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.訂單狀態.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\Test.FrmAdmin.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\Test.FrmLogOnDrive.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\Test.FrmMemberList.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\Test.FrmModifycode.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\Wisewhile.FrmShowProduct.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\MidTermReport.Frm_Cart.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\Report.Frm_MemberInfo.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\Report.Frm_View.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\專題.員工管理.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.商品上下架.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.商品新增視窗.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.商品更新視窗.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.庫存.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.會員修改.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.會員刪除.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.會員管理.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\專題.編輯員工職位.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\專題.編輯員工薪水.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\專題.編輯員工資料.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.訂單狀態.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\WindowsFormsApp1 v13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\Test.FrmAdmin.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\Test.FrmLogOnDrive.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\Test.FrmMemberList.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\Test.FrmModifycode.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\Wisewhile.FrmShowProduct.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\MidTermReport.Frm_Cart.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\Report.Frm_MemberInfo.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\Report.Frm_View.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\專題.員工管理.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.商品上下架.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.商品新增視窗.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.商品更新視窗.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.庫存.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.會員修改.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.會員刪除.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.會員管理.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\專題.編輯員工職位.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\專題.編輯員工薪水.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\專題.編輯員工資料.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.訂單狀態.resources
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Student\Desktop\WindowsFormsApp1 v14\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

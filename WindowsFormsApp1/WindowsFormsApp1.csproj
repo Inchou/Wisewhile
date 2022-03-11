@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{713F0E0E-5BE6-4A93-94F6-3ECEF1B02B91}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Activity.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Album.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Article.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ArticlePicture.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Cart.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Category.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Color.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Comment.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Employee.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="FavoriteList.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdmin.designer.cs">
+      <DependentUpon>FrmAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogOnDrive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogOnDrive.designer.cs">
+      <DependentUpon>FrmLogOnDrive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMemberList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMemberList.designer.cs">
+      <DependentUpon>FrmMemberList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModifycode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModifycode.designer.cs">
+      <DependentUpon>FrmModifycode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmShowProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmShowProduct.designer.cs">
+      <DependentUpon>FrmShowProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Cart.designer.cs">
+      <DependentUpon>Frm_Cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_MemberInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_MemberInfo.designer.cs">
+      <DependentUpon>Frm_MemberInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_View.designer.cs">
+      <DependentUpon>Frm_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Instruction.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Member.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Order.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OrderDetail.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OrderStatu.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="PhotoList.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Position.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Product.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ProductInfo.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ProductPhoto.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ProductsinStore.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reference.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Salary.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Shipping.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Size.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Store.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SubCategory.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Supplier.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="sysdiagram.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="testDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>testDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Type.cs">
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="WWModel.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WWModel.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="WWModel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WWModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="WWModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WWModel.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="員工管理.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="員工管理.designer.cs">
+      <DependentUpon>員工管理.cs</DependentUpon>
+    </Compile>
+    <Compile Include="商品上下架.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="商品上下架.designer.cs">
+      <DependentUpon>商品上下架.cs</DependentUpon>
+    </Compile>
+    <Compile Include="商品新增視窗.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="商品新增視窗.designer.cs">
+      <DependentUpon>商品新增視窗.cs</DependentUpon>
+    </Compile>
+    <Compile Include="商品更新視窗.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="商品更新視窗.designer.cs">
+      <DependentUpon>商品更新視窗.cs</DependentUpon>
+    </Compile>
+    <Compile Include="庫存.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="庫存.designer.cs">
+      <DependentUpon>庫存.cs</DependentUpon>
+    </Compile>
+    <Compile Include="會員修改.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="會員修改.designer.cs">
+      <DependentUpon>會員修改.cs</DependentUpon>
+    </Compile>
+    <Compile Include="會員刪除.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="會員刪除.designer.cs">
+      <DependentUpon>會員刪除.cs</DependentUpon>
+    </Compile>
+    <Compile Include="會員管理.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="會員管理.designer.cs">
+      <DependentUpon>會員管理.cs</DependentUpon>
+    </Compile>
+    <Compile Include="編輯員工職位.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="編輯員工職位.designer.cs">
+      <DependentUpon>編輯員工職位.cs</DependentUpon>
+    </Compile>
+    <Compile Include="編輯員工薪水.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="編輯員工薪水.designer.cs">
+      <DependentUpon>編輯員工薪水.cs</DependentUpon>
+    </Compile>
+    <Compile Include="編輯員工資料.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="編輯員工資料.designer.cs">
+      <DependentUpon>編輯員工資料.cs</DependentUpon>
+    </Compile>
+    <Compile Include="訂單狀態.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="訂單狀態.designer.cs">
+      <DependentUpon>訂單狀態.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdmin.resx">
+      <DependentUpon>FrmAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogOnDrive.resx">
+      <DependentUpon>FrmLogOnDrive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMemberList.resx">
+      <DependentUpon>FrmMemberList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModifycode.resx">
+      <DependentUpon>FrmModifycode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmShowProduct.resx">
+      <DependentUpon>FrmShowProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Cart.resx">
+      <DependentUpon>Frm_Cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_MemberInfo.resx">
+      <DependentUpon>Frm_MemberInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_View.resx">
+      <DependentUpon>Frm_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="員工管理.resx">
+      <DependentUpon>員工管理.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="商品上下架.resx">
+      <DependentUpon>商品上下架.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="商品新增視窗.resx">
+      <DependentUpon>商品新增視窗.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="商品更新視窗.resx">
+      <DependentUpon>商品更新視窗.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="庫存.resx">
+      <DependentUpon>庫存.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="會員修改.resx">
+      <DependentUpon>會員修改.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="會員刪除.resx">
+      <DependentUpon>會員刪除.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="會員管理.resx">
+      <DependentUpon>會員管理.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="編輯員工職位.resx">
+      <DependentUpon>編輯員工職位.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="編輯員工薪水.resx">
+      <DependentUpon>編輯員工薪水.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="編輯員工資料.resx">
+      <DependentUpon>編輯員工資料.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="訂單狀態.resx">
+      <DependentUpon>訂單狀態.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="testDataSet1.xsc">
+      <DependentUpon>testDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="testDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>testDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="testDataSet1.xss">
+      <DependentUpon>testDataSet1.xsd</DependentUpon>
+    </None>
+    <EntityDeploy Include="WWModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>WWModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="WWModel.edmx.diagram">
+      <DependentUpon>WWModel.edmx</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="WWModel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>WWModel.edmx</DependentUpon>
+      <LastGenOutput>WWModel.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="WWModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>WWModel.edmx</DependentUpon>
+      <LastGenOutput>WWModel.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
